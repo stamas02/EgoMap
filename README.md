@@ -82,4 +82,5 @@ During both transitions between locations and visits to specific areas, nodes wi
 
 Notably, if all corresponding nodes are shaded red, it suggests that a new node, representing a previously unseen station, is the most probable addition to the map. However, a new node is only appended once the current visit or transition segment concludes.
 
-[![Watch the video]]([https://youtu.be/vt5fpE0bzSY](https://github.com/stamas02/EgoMap/blob/main/sample_video/SUB7_MPI_BIB_OG_read_sofa_map.mp4))
+[![Watch the video](https://as2.ftcdn.net/v2/jpg/02/23/11/61/1000_F_223116142_5KhkC3watopAY4roEhfVy5xugSIY05iw.jpg)](https://raw.githubusercontent.com/stamas02/EgoMap/main/sample_video/SUB7_MPI_BIB_OG_read_sofa_map.mp4)
+

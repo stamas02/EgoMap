@@ -81,3 +81,5 @@ In this graph, each node positioned on the left corresponds to a Station node wi
 During both transitions between locations and visits to specific areas, nodes within the graph are colour-coded either red or green. The green hue signifies a high likelihood that the corresponding node accurately represents the current state observed in the video. Conversely, nodes coloured red indicate a lower likelihood of a match, suggesting a divergence between the observed state and the existing map representation.
 
 Notably, if all corresponding nodes are shaded red, it suggests that a new node, representing a previously unseen station, is the most probable addition to the map. However, a new node is only appended once the current visit or transition segment concludes.
+
+[![Watch the video]]([https://youtu.be/vt5fpE0bzSY](https://github.com/stamas02/EgoMap/blob/main/sample_video/SUB7_MPI_BIB_OG_read_sofa_map.mp4))
